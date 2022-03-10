@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rvasanthr
+- 👋 Hi, I’m Vasanth, in GitHub as @rvasanthr
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Python, C#, SQL, HTML, CSS, JS, Node
 - 💞️ I’m looking to collaborate on ... not now, i am busy bulding myself
