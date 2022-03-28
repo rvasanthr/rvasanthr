@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasanth, in GitHub as @rvasanthr
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Python, C#, SQL, HTML, CSS, JS, Node
-- 💞️ I’m looking to collaborate on ... not now, i am busy bulding myself
+- 💞️ <!--I’m looking to collaborate on ... not now-->Right Now, i am busy bulding myself
 - 📫 How to reach me ... when I am ready my email will be displayed here. 
 
 <!---
