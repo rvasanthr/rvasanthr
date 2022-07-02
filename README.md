@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vasanth, in GitHub as @rvasanthr
-- 👀 I’m interested in ... Web Programming
+- 👀 I’m interested in ... Web Development
 - 🌱 I’m currently ... Bettering my skills
 - 💞️ <!--I’m looking to collaborate on ... not now--> I am Busy!
 - 📫 How to reach me ... When I am available, my email will be here ;)
